@@ -42,7 +42,7 @@ def view():
 <body>
     <p id="text"></p>
     <script>
-        fetch('http://192.168.1.210/load_data', {
+        fetch('/load_data', {
             method: 'post',
             headers: {
                 'Content-Type': 'application/json'
