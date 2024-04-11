@@ -6,3 +6,4 @@
 
 - [CASE3: 检测 json编码「识别Python系爬虫」](./CASE3/readme.md)
 
+- [CASE4: cookie 顺序反爬「识别Python系爬虫」](./CASE4/readme.md)
